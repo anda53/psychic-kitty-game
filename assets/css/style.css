@@ -1,0 +1,49 @@
+
+
+
+p{
+	font-family: 'Delius Swash Caps', cursive;
+	color: #c8bbe0;
+	font-size: 1.5em;
+}
+
+#kitty{
+	margin-left:5%;
+	width:70%;
+	top: 30px;
+}
+
+body{
+
+	background-image: url("../images/redCurtain.jpeg");
+}
+
+#heading{
+	color: white;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	height: 100%;
+	font-family: 'Delius Swash Caps', cursive;
+	margin-right: 6%;
+}
+
+#game{
+	margin-left: 60%;
+	margin-top: 20%;
+
+}
+
+#topDiv{
+    max-height:120%;
+
+}
+#header{
+	max-height: 100%;
+	margin-top: -2%;
+	text-align: center;
+	background-color: black;
+
+}
+.img-circle {
+    border-radius: 50%;
+}
